@@ -1,7 +1,3 @@
-<p align="center"><a href="https://strawnico.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
 I'm a brazilian learning FrontEnd development
 
 **About me**
