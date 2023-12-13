@@ -1,4 +1,4 @@
-I'm a brazilian learning FrontEnd development
+I'm a junior front end development
 
 **About me**
 
